@@ -1,4 +1,3 @@
-layout_spectrum: 0.23878644732758403
 typography_spectrum: 0.3119321290869266
 color:
   brandStrength: 0.9862853242084384
@@ -6,9 +5,12 @@ color:
   saturation: 0.7960892200935632
   rhythmicContrast: 0.5583575100172311
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FFFFFF'
+    - '#B8A890'
+    - '#5E5858'
+    - '#131218'
+    - '#84282A'
+layout_spectrum: 0.23878644732758403
 name: extensive reflection
+title: read 'n write
+description: no tone unsturned
