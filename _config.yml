@@ -1,4 +1,4 @@
-typography_spectrum: 0.3119321290869266
+typography_spectrum: 0.5381187808234245
 color:
   brandStrength: 0.9862853242084384
   lightness: 0.7565562138333917
@@ -10,7 +10,7 @@ color:
     - '#5E5858'
     - '#131218'
     - '#84282A'
-layout_spectrum: 0.23878644732758403
+layout_spectrum: 0.08144054212607443
 name: extensive reflection
 title: read 'n write
 description: no tone unsturned
